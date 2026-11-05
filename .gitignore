@@ -1,1 +1,4 @@
 *~
+
+# These directories are caches created by autoconf, and needn't be committed.
+autom4te.cache/
