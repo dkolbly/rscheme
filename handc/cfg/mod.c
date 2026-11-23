@@ -28,8 +28,7 @@
 				    -- Revised^4 Scheme, p.22
 */
 
-
-main()
+int main()
 {
   int a, b;
 
